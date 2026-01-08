@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="taskschedulerproject/taskschedulerproject.vcxproj" Id="cc720155-3414-423b-956a-969a486ade90" />
+</Solution>

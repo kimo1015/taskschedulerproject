@@ -1,0 +1,66 @@
+[2026-01-07 01:36:40] LogWriter initialized
+[2026-01-07 01:36:40] TEST: Starting Unit Tests...
+[2026-01-07 01:36:40] TEST: TaskFactory Creation Passed
+[2026-01-07 01:36:40] TEST: ScheduledTask Priority Sorting Passed
+[2026-01-07 01:36:40] Task A - File Backup Success: Backup to D:\Backup\backup_20260107.zip
+[2026-01-07 01:36:40] Task A - File Backup Success: Backup to D:\Backup\backup_20260107.zip
+[2026-01-07 01:36:45] System: Task A scheduled (10s delay)
+[2026-01-07 01:36:48] System: Task D scheduled (Periodic 1min)
+[2026-01-07 01:36:48] Task D - Class Reminder Reminder: It is class time!
+[2026-01-07 01:36:49] System: Scheduler stopped
+[2026-01-07 01:38:16] LogWriter closed
+[2026-01-07 01:53:56] LogWriter initialized
+[2026-01-07 01:53:56] TEST: Starting Unit Tests...
+[2026-01-07 01:53:56] TEST: TaskFactory Creation Passed
+[2026-01-07 01:53:56] TEST: ScheduledTask Priority Sorting Passed
+[2026-01-07 01:53:56] Task A - File Backup Success: Backup to D:\Backup\backup_20260107.zip
+[2026-01-07 01:53:56] Task A - File Backup Success: Backup to D:\Backup\backup_20260107.zip
+[2026-01-07 01:53:59] System: Task A scheduled (10s delay)
+[2026-01-07 01:54:00] System: Task B scheduled (Periodic 5s)
+[2026-01-07 01:54:00] Task B - Matrix Multiplication Finished: 100x100 calculation
+[2026-01-07 01:54:01] System: Task D scheduled (Periodic 1min)
+[2026-01-07 01:54:01] Task D - Class Reminder Reminder: It is class time!
+[2026-01-07 01:54:01] System: Task E scheduled (10s delay)
+[2026-01-07 01:54:02] LogWriter closed
+[2026-01-08 12:12:40] LogWriter initialized
+[2026-01-08 12:12:40] TEST: Starting Unit Tests...
+[2026-01-08 12:12:40] TEST: TaskFactory Creation Passed
+[2026-01-08 12:12:40] TEST: ScheduledTask Priority Sorting Passed
+[2026-01-08 12:12:40] Task A - File Backup Success: Backup to D:\Backup\backup_20260108.zip
+[2026-01-08 12:12:40] Task A - File Backup Success: Backup to D:\Backup\backup_20260108.zip
+[2026-01-08 12:32:14] System: Task A scheduled (10s delay)
+[2026-01-08 12:32:24] Task A - File Backup Success: Backup to D:\Backup\backup_20260108.zip
+[2026-01-08 12:36:17] System: Task B scheduled (Periodic 5s)
+[2026-01-08 12:36:17] Task B - Matrix Multiplication Finished: 100x100 calculation
+[2026-01-08 12:36:22] Task B - Matrix Multiplication Finished: 100x100 calculation
+[2026-01-08 12:36:27] Task B - Matrix Multiplication Finished: 100x100 calculation
+[2026-01-08 12:36:32] Task B - Matrix Multiplication Finished: 100x100 calculation
+[2026-01-08 12:36:37] Task B - Matrix Multiplication Finished: 100x100 calculation
+[2026-01-08 12:36:42] Task B - Matrix Multiplication Finished: 100x100 calculation
+[2026-01-08 12:36:47] Task B - Matrix Multiplication Finished: 100x100 calculation
+[2026-01-08 12:36:52] Task B - Matrix Multiplication Finished: 100x100 calculation
+[2026-01-08 12:36:57] Task B - Matrix Multiplication Finished: 100x100 calculation
+[2026-01-08 12:37:02] Task B - Matrix Multiplication Finished: 100x100 calculation
+[2026-01-08 12:37:07] Task B - Matrix Multiplication Finished: 100x100 calculation
+[2026-01-08 12:37:12] Task B - Matrix Multiplication Finished: 100x100 calculation
+[2026-01-08 12:37:17] Task B - Matrix Multiplication Finished: 100x100 calculation
+[2026-01-08 12:37:22] Task B - Matrix Multiplication Finished: 100x100 calculation
+[2026-01-08 12:37:27] Task B - Matrix Multiplication Finished: 100x100 calculation
+[2026-01-08 12:37:32] Task B - Matrix Multiplication Finished: 100x100 calculation
+[2026-01-08 12:37:37] Task B - Matrix Multiplication Finished: 100x100 calculation
+[2026-01-08 12:37:42] Task B - Matrix Multiplication Finished: 100x100 calculation
+[2026-01-08 12:37:46] System: Scheduler stopped
+[2026-01-08 12:37:56] System: Task C scheduled (Immediate)
+[2026-01-08 12:37:58] System: Scheduler stopped
+[2026-01-08 12:38:04] System: Task C scheduled (Immediate)
+[2026-01-08 12:39:32] System: Task C scheduled (Immediate)
+[2026-01-08 12:39:34] System: Task E scheduled (10s delay)
+[2026-01-08 12:39:38] LogWriter closed
+[2026-01-08 12:40:16] LogWriter initialized
+[2026-01-08 12:40:16] TEST: Starting Unit Tests...
+[2026-01-08 12:40:16] TEST: TaskFactory Creation Passed
+[2026-01-08 12:40:16] TEST: ScheduledTask Priority Sorting Passed
+[2026-01-08 12:40:16] Task A - File Backup Success: Backup to D:\Backup\backup_20260108.zip
+[2026-01-08 12:40:16] Task A - File Backup Success: Backup to D:\Backup\backup_20260108.zip
+[2026-01-08 12:40:19] System: Task E scheduled (10s delay)
+[2026-01-08 12:40:29] Task E - Random Number Stats Stats: Mean: 52.07, Stdev: 29.3419

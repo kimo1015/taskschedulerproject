@@ -1,0 +1,23 @@
+[2025-12-29 11:44:04] LogWriter initialized
+[2025-12-29 11:44:04] Task B - Matrix Multiplication Finished: 100x100 calculation
+[2025-12-29 11:44:05] Task C - HTTP GET Success: <!doctype html><html lang="en"><head><title>Exampl...
+[2025-12-29 11:44:05] Task D - Class Reminder Reminder: It is class time!
+[2025-12-29 11:44:09] Task B - Matrix Multiplication Finished: 100x100 calculation
+[2025-12-29 11:44:14] Task A - File Backup Failed, Error Code: 6
+[2025-12-29 11:44:14] Task B - Matrix Multiplication Finished: 100x100 calculation
+[2025-12-29 11:44:14] Task E - Random Number Stats Stats: Mean: 51.16, Stdev: 28.7102
+[2025-12-29 11:44:19] Task B - Matrix Multiplication Finished: 100x100 calculation
+[2025-12-29 11:44:59] LogWriter initialized
+[2025-12-29 11:44:59] Task B - Matrix Multiplication Finished: 100x100 calculation
+[2025-12-29 11:44:59] Task C - HTTP GET Success: <!doctype html><html lang="en"><head><title>Exampl...
+[2025-12-29 11:44:59] Task D - Class Reminder Reminder: It is class time!
+[2025-12-29 13:19:02] LogWriter initialized
+[2025-12-29 13:19:02] TEST: Starting Unit Tests...
+[2025-12-29 13:19:02] TEST: TaskFactory Creation Passed
+[2025-12-29 13:19:02] TEST: ScheduledTask Priority Sorting Passed
+[2025-12-29 13:19:31] System: Task A scheduled (10s delay)
+[2025-12-29 13:19:36] System: Task D scheduled (Periodic 1min)
+[2025-12-29 13:19:36] Task D - Class Reminder Reminder: It is class time!
+[2025-12-29 13:19:37] System: Task D scheduled (Periodic 1min)
+[2025-12-29 13:19:37] Task D - Class Reminder Reminder: It is class time!
+[2025-12-29 13:19:37] System: Scheduler stopped
